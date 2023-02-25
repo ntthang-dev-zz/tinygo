@@ -10,7 +10,7 @@ require (
 	github.com/marcinbor85/gohex v0.0.0-20200531091804-343a4b548892
 	github.com/mattn/go-colorable v0.1.8
 	go.bug.st/serial v1.1.2
-	golang.org/x/sys v0.0.0-20210113181707-4bcb84eeeb78
+	golang.org/x/sys v0.1.0
 	golang.org/x/tools v0.0.0-20200216192241-b320d3a0f5a2
 	tinygo.org/x/go-llvm v0.0.0-20210206225315-7fe719483a0f
 )
